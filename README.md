@@ -2,7 +2,7 @@
 
 This is a repo that explores various uplift modelling packages on the [Criteo dataset](http://ailab.criteo.com/criteo-uplift-prediction-dataset/). 
 - Note that the exact Criteo dataset is too large (3.2 GB) so it was not pushed into the repo.
-- A subsample (1%) of the data with Stratified train-test split was done, and can be found in the [Data folder](https://github.com/kfoofw/uplift_modelling/blob/master/criteo/)
+- A subsample (1%) of the data with Stratified train-test split was done, and can be replicated using the [Notebook code found in the Criteo Data folder](https://github.com/kfoofw/uplift_modelling/blob/master/criteo_data/Reproducible%20data%20splitting.ipynb)
 
 The concept of __uplift__ is based on the concept of __heterogenous treatment effects within experimental units in a population__. With uplift, we can create policies for targeted treatment for specific populations that respond best to the treatment, or avoid wasting resources applying treatment to population subgroups that do not respond well to it. In the context of digital commerce, we can decide prioritise customer segments to perform targeted campaign advertising/coupons, and perform benefit-cost optimisation for campaigns.
 
