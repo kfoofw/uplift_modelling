@@ -20,7 +20,7 @@ Some concepts that will be explored in this repo are:
 
 ### Jupyter Notebooks Links
 - [Criteo modelling with Pylift](https://github.com/kfoofw/uplift_modelling/blob/master/pylift/Criteo%20modelling%20with%20Pylift.ipynb)
-- [Criteo modelling with Meta Learners (S, T, X)](https://github.com/kfoofw/uplift_modelling/blob/master/pylift/Criteo%20modelling%20with%20Pylift.ipynb)
+- [Criteo modelling with Meta Learners (S, T, X)](https://github.com/kfoofw/uplift_modelling/blob/master/meta_learners/Criteo%20modelling%20with%20Meta%20Learners%20(S%2C%20T%2C%20X).ipynb)
 
 ### Packages explored:
 - [Pylift](https://pylift.readthedocs.io/en/latest/)
